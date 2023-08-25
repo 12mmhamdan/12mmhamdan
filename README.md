@@ -1,4 +1,6 @@
 # 👋 Hey there, I'm Moataz Hamdan!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/moatazhamdan94/)
+[![Email](https://img.shields.io/badge/Email-Contact-brightgreen)](mailto:hamdanmoataz@gmail.com)
 
 Welcome to my little corner on GitHub. I'm a passionate IT professional with a strong background in software engineering, and I'm all about creating elegant solutions to real-world problems.
 
