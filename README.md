@@ -27,6 +27,6 @@ When I'm not coding or collaborating, you might find me exploring new technologi
 
 ## Let's Connect!
 
-Feel free to explore my repositories to see some of the coding adventures I've been on. I'm always open to new connections and collaborations, so don't hesitate to reach out on [LinkedIn](https://www.linkedin.com/in/moataz-hamdan). You can also shoot me an [email](mailto:hamdanmoataz@gmail.com) if you want to chat about tech, coding, or anything else under the sun.
+Feel free to explore my repositories to see some of the coding adventures I've been on. I'm always open to new connections and collaborations, so don't hesitate to reach out on [LinkedIn](https://www.linkedin.com/in/moatazhamdan94/). You can also shoot me an [email](mailto:hamdanmoataz@gmail.com) if you want to chat about tech, coding, or anything else under the sun.
 
 Thanks for stopping by, and let's make the coding world a better place, one project at a time! 🚀🌟
