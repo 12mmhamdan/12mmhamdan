@@ -1,61 +1,58 @@
 # 👋 Hey, I’m Moataz Hamdan
 
-Welcome to my GitHub. I’m an IT professional with a software engineering background who enjoys building clean, reliable solutions to real-world problems. I care a lot about code quality, maintainability, and delivering features that actually help users.
+Software Engineer focused on **cloud-native backend systems** and **scalable REST APIs**. I enjoy designing clean service boundaries, modeling data the right way, and optimizing performance so systems stay fast and reliable as they grow.
 
-## What I work with
+## Core Strengths
+- Cloud-native backend development (containerized services, production-style workloads)
+- REST API design (validation, structured error handling, versioned endpoints)
+- Data modeling (normalized schemas, constraints, relationships)
+- Performance optimization (query tuning, indexing strategies, latency improvements)
+- Agile collaboration (planning, standups, code reviews, design discussions)
+
+## Tech Stack
 
 **Languages**
-- Java
-- Python
+- Python, Java, JavaScript, TypeScript, SQL
 
-**Backend & APIs**
-- Spring Framework / Spring Boot
-- RESTful APIs
+**Backend**
+- REST APIs, Node.js, Express, Spring
 
 **Frontend**
-- Angular
-- HTML
-- CSS
+- React, Angular, HTML, CSS
+
+**Cloud & Infra**
+- Google Cloud Run, Cloud SQL, Docker
 
 **Databases**
-- Oracle SQL
-- SQL (general)
+- MySQL, PostgreSQL, MongoDB, Oracle
 
-**Tools & Collaboration**
-- Microsoft Teams
-- Slack
-- Outlook
+**Tools & Practices**
+- Git, Agile/Scrum, CI/CD concepts, API Design
 
-**Enterprise / Domain Exposure**
-- SAP EWM (warehouse and logistics workflows)
+## Experience
 
-**Engineering style**
-- Object-Oriented Programming (OOP)
-- Clean, maintainable, testable code
+**Software Engineer Fellow — Coding Temple (2023 – Present)**
+- Built and deployed containerized backend services on **Google Cloud Run**, integrating **REST APIs** with **Cloud SQL**
+- Improved API throughput and reduced latency by optimizing SQL queries, indexing strategies, and execution paths
+- Designed normalized relational schemas to improve integrity and long-term maintainability
+- Integrated third-party APIs with retry logic and rate-limit handling to improve resilience
+- Collaborated in Agile sprints with a focus on scalability and clean architecture
 
-## Experience highlights
+**Junior Software Engineer — Infosys (2019 – 2022)**
+- Developed and maintained enterprise web applications using **Java, Spring, SQL, and React**
+- Implemented backend services and REST APIs supporting transactional workflows and validation logic
+- Delivered feature enhancements and bug fixes improving functional coverage and user experience
+- Designed and optimized SQL schemas and queries to improve performance and scalability
+- Worked cross-functionally with QA, analysts, and senior engineers to deliver maintainable solutions
 
-I’ve been with **Infosys (since December 2019)**, contributing to full-stack web applications using **Java, Spring, SQL, and Angular**. A few things I’ve focused on:
-- Building and improving user-facing features and internal tools
-- Supporting performance and stability improvements
-- Translating requirements into practical, maintainable implementations
-- Collaborating closely with teams and stakeholders to hit priorities
-- Working with SAP EWM-related workflows to support warehouse management needs
-
-## What I’m up to
-
-Outside of work, I like exploring new technologies, following industry trends, and shipping personal projects that sharpen my skills and solve small problems.
-
-## Let’s connect
-
-- LinkedIn: **[https://www.linkedin.com/in/moatazhamdan/](https://www.linkedin.com/)**
-- Email: **[hamdanmoataz@gmail.com](mailto:your@email.com)**
-
-If you’re interested in collaborating, feel free to reach out.
+## Let’s Connect
+- Email: **hamdanmoataz@gmail.com**
+- LinkedIn: **(https://www.linkedin.com/in/moatazhamdan/)**
+- Portfolio: **(https://moataz-hamdan.vercel.app/)**
 
 ---
 
 ## ⭐ Featured Projects (Pinned)
 
-- **[Quick Quiz](https://github.com/12mmhamdan/Quick_Quiz)** — AI-powered quiz creation and management app that helps teachers generate and manage quizzes faster while students track progress.
-- **[Social Code](https://github.com/12mmhamdan/Social-Code)** — Social media web app with posts and engagement features, built with a modern full-stack workflow.
+- **[Quick Quiz](https://github.com/12mmhamdan/Quick_Quiz)** — Cloud-native quiz generation platform using Cloud Run + Cloud SQL with AI-assisted question creation, scoring, and analytics.
+- **[Social Code](https://github.com/12mmhamdan/Social-Code)** — Full-stack social networking app with authentication, posts/interactions, and Redux-driven client state.
