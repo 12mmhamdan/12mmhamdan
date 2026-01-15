@@ -1,34 +1,61 @@
-# 👋 Hey there, I'm Moataz Hamdan!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/moatazhamdan94/)
-[![Email](https://img.shields.io/badge/Email-Contact-brightgreen)](mailto:hamdanmoataz@gmail.com)
+# 👋 Hey, I’m Moataz Hamdan
 
-Welcome to my little corner on GitHub. I'm a passionate IT professional with a strong background in software engineering, and I'm all about creating elegant solutions to real-world problems.
+Welcome to my GitHub. I’m an IT professional with a software engineering background who enjoys building clean, reliable solutions to real-world problems. I care a lot about code quality, maintainability, and delivering features that actually help users.
 
-## What I Bring to the Table
+## What I work with
 
-- **Languages:** I'm fluent in Java and Python.
-- **Database Guru:** I know my way around Oracle SQL.
-- **API Aficionado:** I'm experienced in working with RESTful APIs.
-- **Team Player:** I collaborate well with tools like Teams, Slack, and Outlook.
-- **Web Wizard:** I enjoy crafting web experiences with Spring Boot, Angular, HTML, and CSS.
-- **Warehouse Whisperer:** I've dabbled in the intricacies of SAP EWM.
-- **Design Enthusiast:** I believe in creating clean and maintainable code using Object-Oriented Programming (OOP) principles.
+**Languages**
+- Java
+- Python
 
-## My Journey So Far
+**Backend & APIs**
+- Spring Framework / Spring Boot
+- RESTful APIs
 
-I've been on an exciting journey with Infosys since December 2019. Here are some highlights:
+**Frontend**
+- Angular
+- HTML
+- CSS
 
-- 🚀 I've had the pleasure of working on Full-Stack web applications that utilize Java, Spring Framework, SQL, and Angular. These projects have not only improved system performance but also enhanced the overall user experience.
-- 💡 I'm all about learning and have completed various training programs in modern web application development.
-- 🤝 Effective communication has been a key aspect of my role. I've collaborated closely with development teams and clients, ensuring we meet project priorities and requirements.
-- 📦 I've also delved into the world of SAP EWM, making warehouse management a breeze for our clients.
+**Databases**
+- Oracle SQL
+- SQL (general)
 
-## Beyond Work
+**Tools & Collaboration**
+- Microsoft Teams
+- Slack
+- Outlook
 
-When I'm not coding or collaborating, you might find me exploring new technologies, reading up on the latest industry trends, or working on personal coding projects.
+**Enterprise / Domain Exposure**
+- SAP EWM (warehouse and logistics workflows)
 
-## Let's Connect!
+**Engineering style**
+- Object-Oriented Programming (OOP)
+- Clean, maintainable, testable code
 
-Feel free to explore my repositories to see some of the coding adventures I've been on. I'm always open to new connections and collaborations, so don't hesitate to reach out on [LinkedIn](https://www.linkedin.com/in/moatazhamdan94/). You can also shoot me an [email](mailto:hamdanmoataz@gmail.com) if you want to chat about tech, coding, or anything else under the sun.
+## Experience highlights
 
-Thanks for stopping by, and let's make the coding world a better place, one project at a time! 🚀🌟
+I’ve been with **Infosys (since December 2019)**, contributing to full-stack web applications using **Java, Spring, SQL, and Angular**. A few things I’ve focused on:
+- Building and improving user-facing features and internal tools
+- Supporting performance and stability improvements
+- Translating requirements into practical, maintainable implementations
+- Collaborating closely with teams and stakeholders to hit priorities
+- Working with SAP EWM-related workflows to support warehouse management needs
+
+## What I’m up to
+
+Outside of work, I like exploring new technologies, following industry trends, and shipping personal projects that sharpen my skills and solve small problems.
+
+## Let’s connect
+
+- LinkedIn: **[https://www.linkedin.com/in/moatazhamdan/](https://www.linkedin.com/)**
+- Email: **[hamdanmoataz@gmail.com](mailto:your@email.com)**
+
+If you’re interested in collaborating, feel free to reach out.
+
+---
+
+## ⭐ Featured Projects (Pinned)
+
+- **[Quick Quiz](https://github.com/12mmhamdan/Quick_Quiz)** — AI-powered quiz creation and management app that helps teachers generate and manage quizzes faster while students track progress.
+- **[Social Code](https://github.com/12mmhamdan/Social-Code)** — Social media web app with posts and engagement features, built with a modern full-stack workflow.
